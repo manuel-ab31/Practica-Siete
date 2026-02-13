@@ -16,8 +16,8 @@ class AuthService:
         self._password = valid_password
         self._valid_users = {
             "admin": "admin",
-            "estudiante": "student",
-            "maestro": "teacher"
+            "alumno": "alumno",
+            "maestro": "maestro"
         }
 
     def login(self, username: str, password: str) -> AuthResult:
