@@ -74,7 +74,7 @@ Todos los usuarios comparten la misma contraseña:
 
 **Usuarios disponibles:**
 - Usuario: `admin` - Accede al panel de administrador
-- Usuario: `estudiante` - Accede al portal de estudiantes
+- Usuario: `alumno` - Accede al portal de estudiantes
 - Usuario: `maestro` - Accede al portal de docentes
 
 ## Funcionalidades Implementadas

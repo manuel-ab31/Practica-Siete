@@ -40,9 +40,9 @@ class AppShell(QStackedWidget):
         if user_type == "admin":
             self.admin_view.set_welcome(username)
             self.setCurrentIndex(self.PAGE_ADMIN)
-        elif user_type == "student":
+        elif user_type == "alumno":
             self.student_view.set_welcome(username)
             self.setCurrentIndex(self.PAGE_STUDENT)
-        elif user_type == "teacher":
+        elif user_type == "maestro":
             self.teacher_view.set_welcome(username)
             self.setCurrentIndex(self.PAGE_TEACHER)
