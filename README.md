@@ -46,8 +46,8 @@ El proyecto sigue el patrón Model-View-Presenter:
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/manuel-ab31/practica7.git
-cd practica7
+git clone https://github.com/manuel-ab31/Practica-Siete.git
+cd Practica-Siete
 ```
 
 2. Instalar las dependencias:
